@@ -1,0 +1,30 @@
+_repo: A-Resident-s-wife-in-Nigeria_74070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larymore, Constance Belcher
+    gutenberg_agent_id: '57333'
+    url: http://www.gutenberg.org/2009/agents/57333
+description: ''
+gutenberg_issued: '2024-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74070'
+  lccn: 08020522
+language: en
+pgterms:marc904: https://archive.org/details/residentswifeinn00laryrich
+pgterms:marc905: 20210916101423larymore
+pgterms:marc906: '1908'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGeorge Routledge & Sons, Limited, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nigeria -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: A Resident's wife in Nigeria
+url: http://www.gutenberg.org/ebooks/74070
