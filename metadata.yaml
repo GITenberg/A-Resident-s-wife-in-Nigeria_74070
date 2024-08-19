@@ -1,11 +1,16 @@
 _repo: A-Resident-s-wife-in-Nigeria_74070
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74070-h/images/cover.jpg
 creator:
   author:
     agent_name: Larymore, Constance Belcher
     gutenberg_agent_id: '57333'
     url: http://www.gutenberg.org/2009/agents/57333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74070#A-Resident-s-wife-in-Nigeria
 gutenberg_issued: '2024-07-19'
 gutenberg_type: Text
 identifiers:
